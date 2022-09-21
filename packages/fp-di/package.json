@@ -6,9 +6,9 @@
     "Dependency injection",
     "functional programming"
   ],
-  "homepage": "https://github.com/Lucifier129/fp-di",
-  "repository": "github:Lucifier129/fp-di",
-  "bugs": "https://github.com/Lucifier129/fp-di/issues",
+  "homepage": "https://github.com/Lucifier129/functional-di",
+  "repository": "github:Lucifier129/functional-di",
+  "bugs": "https://github.com/Lucifier129/functional-di/issues",
   "author": "https://github.com/Lucifier129",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

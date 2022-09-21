@@ -1,5 +1,5 @@
 {
-  "name": "fp-di",
+  "name": "functional-di",
   "license": "MIT",
   "description": "Dependency injection in functional style",
   "author": "https://github.com/Lucifier129",

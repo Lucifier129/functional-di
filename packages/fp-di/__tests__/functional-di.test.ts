@@ -43,7 +43,7 @@ const serverBNestImpl = ServiceB.impl(() => {
   }
 })
 
-describe('fp-di', () => {
+describe('functional-di', () => {
   it('support inject handler', () => {
     const value0 = run(() => ServiceA(1), [serviceAImpl]).foo()
     const value1 = run(() => ServiceA(2), [serviceAImpl]).foo()

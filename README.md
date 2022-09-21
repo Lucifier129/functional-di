@@ -1,13 +1,13 @@
-# fp-di
+# functional-di
 
 Dependency injection in functional style
 
 ### Installation
 
 ```sh
-npm install --save fp-di
+npm install --save functional-di
 
-yarn add fp-di
+yarn add functional-di
 ```
 
 ### Usage
@@ -16,7 +16,7 @@ yarn add fp-di
 - `run` for injecting function
 
 ```typescript
-import { def, run } from 'fp-di'
+import { def, run } from 'functional-di'
 
 // define some interfaces
 interface ServiceA {

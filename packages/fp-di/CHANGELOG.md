@@ -1,4 +1,4 @@
-# fp-di
+# functional-di
 
 ## 1.0.0
 
