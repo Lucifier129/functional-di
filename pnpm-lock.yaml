@@ -52,7 +52,7 @@ importers:
       ts-jest: 27.1.5_6400e448c8ce26641831d9829b55a941
       typescript: 4.7.4
 
-  packages/fp-di:
+  packages/functional-di:
     specifiers:
       '@types/node': ^16.7.2
       tslib: ^2.4.0
