@@ -1,7 +1,7 @@
 {
   "name": "fp-di",
   "version": "0.0.0",
-  "description": "Dependency injection in functional programming style",
+  "description": "Dependency injection in functional style",
   "keywords": [
     "Dependency injection",
     "functional programming"
@@ -26,6 +26,7 @@
     "dev": "esno src/index.ts"
   },
   "dependencies": {
+    "tslib": "^2.4.0"
   },
   "devDependencies": {
     "@types/node": "^16.7.2",
