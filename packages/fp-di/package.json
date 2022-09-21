@@ -1,0 +1,37 @@
+{
+  "name": "fp-di",
+  "version": "0.0.0",
+  "description": "Dependency injection in functional programming style",
+  "keywords": [
+    "Dependency injection",
+    "functional programming"
+  ],
+  "homepage": "https://github.com/Lucifier129/fp-di",
+  "repository": "github:Lucifier129/fp-di",
+  "bugs": "https://github.com/Lucifier129/fp-di/issues",
+  "author": "https://github.com/Lucifier129",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src",
+    "modules"
+  ],
+  "engines": {
+    "node": ">=14.x"
+  },
+  "scripts": {
+    "test": "jest --config=../../jest.config.js",
+    "test:coverage": "jest --config=../../jest.config.js --collectCoverage --coverage",
+    "dev": "esno src/index.ts"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^16.7.2",
+    "typescript": "^4.3.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
