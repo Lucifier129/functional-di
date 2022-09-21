@@ -1,6 +1,6 @@
 {
-  "name": "fp-di",
-  "version": "0.0.0",
+  "name": "functional-di",
+  "version": "1.0.0",
   "description": "Dependency injection in functional style",
   "keywords": [
     "Dependency injection",
